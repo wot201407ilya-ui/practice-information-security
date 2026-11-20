@@ -97,12 +97,10 @@ array_extremes/
 ## Ссылка на репозиторий GitHub
 
 ```text
-https://github.com/<ваш-логин>/practice-information-security/tree/main/case3_array
+https://github.com/wot201407ilya-ui/practice-information-security/tree/main/case3_array
 ```
 
-Перед сдачей замените `<ваш-логин>` на имя вашего аккаунта GitHub: создайте
-репозиторий `practice-information-security`, загрузите папку `case3_array`
-целиком, затем скопируйте адрес папки в отчёт.
+Репозиторий опубликован по указанному адресу.
 
 ## Автор
 
