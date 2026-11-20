@@ -126,12 +126,10 @@ case4_dragons/
 ## Ссылка на репозиторий GitHub
 
 ```text
-https://github.com/<ваш-логин>/practice-information-security/tree/main/case4_dragons
+https://github.com/wot201407ilya-ui/practice-information-security/tree/main/case4_dragons
 ```
 
-Перед сдачей замените `<ваш-логин>` на имя вашего аккаунта GitHub: создайте
-репозиторий `practice-information-security`, загрузите папку `case4_dragons`
-целиком, затем скопируйте адрес папки в отчёт.
+Репозиторий опубликован по указанному адресу.
 
 ## Автор
 
